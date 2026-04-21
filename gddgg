@@ -240,6 +240,6 @@ window.JOT_formatRelativeToNow=function(a,b){a=((new Date).getTime()-a)/6E4;if(1
 <script type="text/javascript">
           window.jstiming.load.tick('render');
           JOT_postEvent('usercontentrendered', this);
-        </script>
-</body>149.56.15.214
-</html>152.53.246.17
+        
+</body>
+</html>
